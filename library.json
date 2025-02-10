@@ -1,0 +1,20 @@
+{
+    "name": "MIC24CSM01_Arduino",
+    "version": "1.0.0",
+    "description": "MIC24CSM01 memory library for save, read data and much more",
+    "keywords": ["24CSM01", "Microchip", "EEPROM", "memory", "I2C", "Arduino", "ATmega", "Nano", "Uno", "Mega"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tuo-username/NomeDellaTuaLibreria.git"
+    },
+    "authors": [
+      {
+        "name": "Ugo Silato",
+        "email": "ugo.silato@hotmail.com",
+        "maintainer": true
+      }
+    ],
+    "LICENSE": "MIT",
+    "frameworks": ["arduino"],
+    "platforms": ["atmelavr"]
+  }
