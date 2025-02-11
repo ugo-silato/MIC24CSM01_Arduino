@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 24CSM01 EEPROM Library
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ugo
+    family-names: Silato
+    email: ugo.silato@hotmail.com
+    name-particle: Ugo
+repository-code: 'https://github.com/ugo-silato/MIC24CSM01_Arduino.git'
+abstract: >-
+  Microchip 24CSM01 memory library for save, read data and
+  much more. This library work with the chip Microchip
+  24CSM01 - 1-Mbit, 3.4MHz I2C Serial EEPROM
+keywords:
+  - Arduino
+  - 24CSM01
+  - EEPROM
+  - I2C
+license: MIT
+version: 1.0.0
+date-released: '2025-02-10'
